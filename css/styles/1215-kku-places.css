@@ -1,0 +1,54 @@
+body {
+    background-color: #F49F51;
+}
+
+.content1 {
+    border: 3px solid #000000;
+    background-color: #FDF3D6 ;
+    border-radius: 4px;
+    height: 800px;
+    width: 600px;
+    margin: auto;
+}
+
+img {
+   
+    display: block;
+    border: 3px solid #000000;
+    border-radius: 4px;
+    padding: 5px;
+    width: 200px;
+    margin: auto;
+  }
+
+.square {
+    border-style: dotted;
+}
+
+h1 {
+    text-align: center;
+    font-size: 50px;
+  }
+
+h2 {font-size: 20px;
+
+}
+a{
+    padding-left: 10px;
+}
+
+p {
+   text-align: center;
+   font-size: 10px;
+   margin-top: 0px;
+   padding-bottom: 20px;
+}
+
+.location {
+    padding: 15px;
+}
+
+li {
+    padding: 5px;
+}
+
